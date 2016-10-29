@@ -5,7 +5,7 @@ public class MyClass {
 	protected int state;
 	
 	public MyClass() {
-		state = 0;
+		state = 1;
 	}
 	
 	public int getState() {
